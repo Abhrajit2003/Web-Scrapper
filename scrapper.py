@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from typing import List
 from logger_setup import set_logger
 
+
 logger=set_logger()
 
 class Scrapper:
